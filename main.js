@@ -52,7 +52,6 @@ function validate(nameValue, urlValue) {
         return false;
     }
 
-    // Valid
     return true;
 }
 
